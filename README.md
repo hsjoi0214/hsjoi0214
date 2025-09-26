@@ -136,10 +136,10 @@ Moving closer to downstream data roles through projects, certifications, and wri
 ### 🤝 Collaboration & Contact  
 
 - ![collaborate](https://img.shields.io/badge/LOOKING%20TO-Collaborate%20On-blue?style=flat-square)  
-  Building end-to-end Data engineering pipelines, applied ML projects, and MLOps for small or production-grade projects.  
+  Open to and excited about collaborating on end-to-end data engineering, data science, and applied ML projects — from small builds to production-grade pipelines with full MLOps.  
 
 - ![askme](https://img.shields.io/badge/ASK%20ME%20ABOUT-Embedded%20→%20Data%20Transition-lightgrey?style=flat-square)  
-  Dockerizing small apps, fast prototyping with Python + Postgres/Supabase.  
+  From embedded systems to end-to-end data workflows: engineering pipelines, applied ML, and deep learning — deployed with DataOps/DevOps practices (CI/CD, IaC, automation, monitoring, Docker/Kubernetes).
 
 - ![contact](https://img.shields.io/badge/REACH%20ME-prakash.joshi1402%40icloud.com-green?style=flat-square)  
 
