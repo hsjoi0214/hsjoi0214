@@ -137,8 +137,15 @@ Moving closer to downstream data roles through projects, certifications, and wri
 
 ---
 
-### Collaboration & Contact
-- 👯 I’m looking to collaborate on: data engineering pipelines, applied ML projects, and MLOps for small or Production-ready projects.  
-- 💬 Ask me about: embedded → data transition, Dockerizing small apps, fast prototyping with Python + Postgres/Supabase.  
-- 📫 How to reach me: **prakash.joshi1402@icloud.com**    
-- ⚡ Fun fact: <i>I’m obsessed with reading and lifelong learning</i>  
+### 🤝 Collaboration & Contact  
+
+- ![collaborate](https://img.shields.io/badge/LOKKING%20TO-Collaborate%20On-blue?style=flat-square)  
+  Data engineering pipelines, applied ML projects, and MLOps for small or production-ready projects.  
+
+- ![askme](https://img.shields.io/badge/ASK%20ME%20ABOUT-Embedded%20→%20Data%20Transition-lightgrey?style=flat-square)  
+  Dockerizing small apps, fast prototyping with Python + Postgres/Supabase.  
+
+- ![contact](https://img.shields.io/badge/REACH%20ME-prakash.joshi1402%40icloud.com-green?style=flat-square)  
+
+- ![funfact](https://img.shields.io/badge/FUN%20FACT-Obsessed%20with%20reading%20%26%20and%20learning-orange?style=flat-square)  
+  
