@@ -2,7 +2,7 @@
 
 <p align="center">
 Ex–e-mobility & battery-testing software engineer for embedded systems.  
-Now I’m transitioning to Data Engineering and ML systems out of interest and curiosity.
+Now I’m transitioning to Data Engineering and ML systems out of strong interest and curiosity.
 </p>
 
 ---
@@ -10,7 +10,7 @@ Now I’m transitioning to Data Engineering and ML systems out of interest and c
 ### Background
 1. **Embedded software engineer** in the field of e-mobility & battery testing.  
 2. Programmed with a proprietary environment called <b>PA-Tools Suite (Process & Automation Tools)</b>, which included:  
-   - <b>PA-Base/Script</b> — main driver language (C++-based)  
+   - <b>PA-Base/Script</b> — main driver language (C++-like)  
    - <b>PA-Design</b> — for UI and driver design  
    - <b>PA-Graph</b> — a DAG-like state machine language for control flows  
 3. Experienced in developing automation solutions, data analysis and writing device drivers within industrial testing environments.  
