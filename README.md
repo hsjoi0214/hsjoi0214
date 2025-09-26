@@ -2,7 +2,7 @@
 
 <p align="center">
 Ex–e-mobility & battery-testing software engineer for embedded systems.  
-Now I’m transitioning to data engineering and ML systems out of interest and curiosity.
+Now I’m transitioning to Data Engineering and ML systems out of interest and curiosity.
 </p>
 
 ---
