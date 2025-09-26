@@ -13,7 +13,7 @@ Now I’m transitioning to data engineering and ML systems out of interest and c
    - <b>PA-Base/Script</b> — main driver language (C++-based)  
    - <b>PA-Design</b> — for UI and driver design  
    - <b>PA-Graph</b> — a DAG-like state machine language for control flows  
-3. Experienced in developing automation solutions and device drivers within industrial testing environments.  
+3. Experienced in developing automation solutions, data analysis and writing device drivers within industrial testing environments.  
 
 <p align="center">
   <a href="mailto:prakash.joshi1402@icloud.com"><img alt="Email" src="https://img.shields.io/badge/Email-prakash.joshi1402@icloud.com-informational?style=flat"></a>
