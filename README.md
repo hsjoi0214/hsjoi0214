@@ -35,30 +35,58 @@ PA-Tools Suite (PA-Base/Script, PA-Design, PA-Graph), proprietary C++-like langu
 ---
 
 ### Featured Projects (learning + build)
-<p align="center">
+
+<table>
+<tr>
+<td align="center" width="50%">
   <a href="https://github.com/hsjoi0214/brazil-market-expansion">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=hsjoi0214&repo=brazil-market-expansion&theme=transparent&hide_border=true&v=2" />
   </a>
+  <br/>
+  <sub><i>SQL + Tableau dashboards on an artificial Brazil market dataset; structured insights & schema design.</i></sub>
+</td>
+<td align="center" width="50%">
   <a href="https://github.com/hsjoi0214/eniac-discount-analysis">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=hsjoi0214&repo=eniac-discount-analysis&theme=transparent&hide_border=true&v=2" />
   </a>
-</p>
-<p align="center">
+  <br/>
+  <sub><i>Discount strategy & product segmentation analysis on €7.8M revenue; seasonal demand & margin impact.</i></sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
   <a href="https://github.com/hsjoi0214/RAGbot">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=hsjoi0214&repo=RAGbot&theme=transparent&hide_border=true&v=2" />
   </a>
+  <br/>
+  <sub><i>RAG chatbot for <i>Crime and Punishment</i> — IR + LLM via Streamlit.</i></sub>
+</td>
+<td align="center" width="50%">
   <a href="https://github.com/hsjoi0214/housing-price-prediction">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=hsjoi0214&repo=housing-price-prediction&theme=transparent&hide_border=true&v=2" />
   </a>
-</p>
-<p align="center">
+  <br/>
+  <sub><i>Feature-engineered XGBoost pipeline; Streamlit app; Kaggle RMSE 0.12033.</i></sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
   <a href="https://github.com/hsjoi0214/weather-app">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=hsjoi0214&repo=weather-app&theme=transparent&hide_border=true&v=2" />
   </a>
+  <br/>
+  <sub><i>Minimalist JS + OpenWeather: essentials + outfit suggestions.</i></sub>
+</td>
+<td align="center" width="50%">
   <a href="https://github.com/hsjoi0214/movie-night">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=hsjoi0214&repo=movie-night&theme=transparent&hide_border=true&v=2" />
   </a>
-</p>
+  <br/>
+  <sub><i>CLI scraper curating top 50 films of 2023; filters + GCS/Heroku.</i></sub>
+</td>
+</tr>
+</table>
+
 
 
 ---
