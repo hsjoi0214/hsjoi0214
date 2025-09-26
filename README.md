@@ -34,6 +34,32 @@ PA-Tools Suite (PA-Base/Script, PA-Design, PA-Graph), proprietary C++-like langu
 
 ---
 
+### Featured Projects (learning + build)
+<p align="center">
+  <a href="https://github.com/hsjoi0214/brazil-market-expansion">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hsjoi0214&repo=brazil-market-expansion&theme=transparent&hide_border=true" />
+  </a>
+  <a href="https://github.com/hsjoi0214/eniac-discount-analysis">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hsjoi0214&repo=eniac-discount-analysis&theme=transparent&hide_border=true" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/hsjoi0214/RAGbot">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hsjoi0214&repo=RAGbot&theme=transparent&hide_border=true" />
+  </a>
+  <a href="https://github.com/hsjoi0214/housing-price-prediction">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hsjoi0214&repo=housing-price-prediction&theme=transparent&hide_border=true" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/hsjoi0214/weather-app">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hsjoi0214&repo=weather-app&theme=transparent&hide_border=true" />
+  </a>
+  <a href="https://github.com/hsjoi0214/movie-night">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hsjoi0214&repo=movie-night&theme=transparent&hide_border=true" />
+  </a>
+</p>
+
 
 ---
 
