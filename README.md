@@ -16,21 +16,23 @@ Now I’m transitioning to data engineering and ML systems out of interest and c
 3. Experienced in developing automation solutions, data analysis and writing device drivers within industrial testing environments.  
 
 <p align="center">
-  <a href="mailto:prakash.joshi1402@icloud.com"><img alt="Email" src="https://img.shields.io/badge/Email-prakash.joshi1402@icloud.com-informational?style=flat"></a>
-  <a href="https://www.thefourthprojection.com"><img alt="Website" src="https://img.shields.io/badge/Website-Visit-informational?style=flat"></a>
-  <a href="https://medium.com/@prakash1402"><img alt="Medium" src="https://img.shields.io/badge/Writing-Medium-informational?style=flat"></a>
+  <a href="mailto:prakash.joshi1402@icloud.com"><img alt="Email" src="https://img.shields.io/badge/EMAIL-prakash.joshi1402@icloud.com-informational?style=flat"></a>
+  <a href="https://www.thefourthprojection.com"><img alt="Website" src="https://img.shields.io/badge/WEBSITE-Visit-informational?style=flat"></a>
+  <a href="https://medium.com/@prakash1402"><img alt="Medium" src="https://img.shields.io/badge/WRITING-Medium-informational?style=flat"></a>
 </p>
 
 ---
 
 ### Skills & Transition Path
-- 🎯 Transitioning to **production-grade data engineering, data science, and applied ML projects**.  
 
-**Tools I’m learning/building with now**  
-Python, SQL, Docker, GitHub Actions, Postgres/Supabase, FastAPI, XGBoost, Airflow, DAGs, Great Expectations.  
+- ![focus](https://img.shields.io/badge/FOCUS-Data%20Engineering%20%7C%20Data%20Science%20%7C%20Applied%20ML-blue?style=flat-square)  
+  Transitioning to working with **production-grade data engineering, data science, and applied ML projects**.  
 
-**Tools I’ve worked with professionally**  
-PA-Tools Suite (PA-Base/Script, PA-Design, PA-Graph), proprietary C++-like language, LabVIEW, TIA Portal, Jira, automation control frameworks.  
+- ![learning](https://img.shields.io/badge/TOOLS-Learning%20%26%20Building%20with-green?style=flat-square)  
+  Python, SQL, Docker, GitHub Actions, Postgres/Supabase, FastAPI, XGBoost, Airflow, DAGs, Great Expectations.  
+
+- ![professional](https://img.shields.io/badge/TOOLS-Professional%20Experience-orange?style=flat-square)  
+  PA-Tools Suite (PA-Base/Script, PA-Design, PA-Graph), proprietary C++-like language, LabVIEW, TIA Portal, Jira, automation control frameworks.  
 
 ---
 
@@ -106,30 +108,32 @@ PA-Tools Suite (PA-Base/Script, PA-Design, PA-Graph), proprietary C++-like langu
 
 ---
 
-### 🧭 Now / Learning / Journey
+### 🧭 Current Work & Learning
 
-- 🔭 I’m currently working on  
-  1) **Knowledge app** integrating multiple APIs + Supabase with a recommendation system (repo to be made public when complete).  
-  2) **Personal blog** built from scratch — roadmap includes adding a text-to-speech model (currently private).  
+- ![working](https://img.shields.io/badge/WORKING%20ON-Knowledge%20App%20%7C%20Blogging%20Website-blue?style=flat-square)  
+  1) **Knowledge app** integrating multiple APIs + Supabase + recommendation system (repo to be made public when complete).  
+  2) **Personal blogging website** built from scratch — roadmap includes adding a text-to-speech model (currently private).  
 
-- 🌱 I’m currently learning  
-  Knowledge graphs; advancing through **DeepLearning.AI Data Engineering** specialization.  
+- ![learning](https://img.shields.io/badge/LEARNING-Knowledge%20Graphs-green?style=flat-square)  
+  Agentic Knowledge graphs construction
+---
 
-- 🌱 What I did so far  
-  Moving closer to downstream data roles through projects, certifications, and writing:  
+### 🚀 Journey & Achievements
+Moving closer to downstream data roles through projects, certifications, and writing:  
 
-**Certifications**  
-- Data Engineering — DeepLearning.AI (4-course specialization)
-- Data Science — WBS Academy  
-- Deep Learning — DeepLearning.AI (5-course specialization)
-- RAG — DeepLearning.AI  
-- Docker & Kubernetes  
-- Short courses: GCP Essential Training; Statistics (3-part series)  
+- ![certifications](https://img.shields.io/badge/CERTIFICATIONS-orange?style=flat-square)  
+  - Data Engineering — DeepLearning.AI (4-course specialization)  
+  - Data Science — WBS Academy  
+  - Deep Learning — DeepLearning.AI (5-course specialization)  
+  - RAG — DeepLearning.AI  
+  - Docker & Kubernetes  
+  - Short courses: GCP Essential Training; Statistics (3-part series)  
 
-**Articles**  
-- <a href="https://medium.com/@prakash1402/the-complete-guide-to-rag-part-i-operational-mechanics-9365ba12b241">The Complete Guide to RAG: Part I — Operational Mechanics</a>  
-- <a href="https://medium.com/@prakash1402/understanding-deep-neural-networks-foundations-and-intuition-1a-4d3cbe5b4b73">Understanding Deep Neural Networks — Foundations & Intuition (1a)</a>  
-- <a href="https://medium.com/@prakash1402/demystifying-word-embeddings-from-neural-nets-to-contrastive-learning-c444d7b30993">Demystifying Word Embeddings: Neural Nets → Contrastive Learning</a>  
+- ![articles](https://img.shields.io/badge/ARTICLES-purple?style=flat-square)  
+  - <a href="https://medium.com/@prakash1402/the-complete-guide-to-rag-part-i-operational-mechanics-9365ba12b241">The Complete Guide to RAG: Part I — Operational Mechanics</a>  
+  - <a href="https://medium.com/@prakash1402/understanding-deep-neural-networks-foundations-and-intuition-1a-4d3cbe5b4b73">Understanding Deep Neural Networks — Foundations & Intuition (1a)</a>  
+  - <a href="https://medium.com/@prakash1402/demystifying-word-embeddings-from-neural-nets-to-contrastive-learning-c444d7b30993">Demystifying Word Embeddings: Neural Nets → Contrastive Learning</a>  
+
 
 ---
 
