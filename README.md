@@ -25,7 +25,7 @@ Now I’m transitioning to Data Engineering and ML systems out of interest and c
 
 ### Skills & Transition Path
 
-- ![focus](https://img.shields.io/badge/FOCUS-Data%20Engineering%20%7C%20Data%20Science%20%7C%20Applied%20ML-blue?style=flat-square)  
+- ![focus](https://img.shields.io/badge/FOCUS%20ON-Data%20Engineering%20%7C%20Data%20Science%20%7C%20Applied%20ML-blue?style=flat-square)  
   Transitioning to working with **production-grade data engineering, data science, and applied ML projects**.  
 
 - ![learning](https://img.shields.io/badge/TOOLS-Learning%20%26%20Building%20with-green?style=flat-square)  
