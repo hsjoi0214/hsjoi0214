@@ -7,7 +7,7 @@ Now I’m transitioning to Data Engineering and ML systems out of strong interes
 
 ---
 
-### Background
+## Background
 1. **Embedded software engineer** in the field of e-mobility & battery testing.  
 2. Programmed with a proprietary environment called <b>PA-Tools Suite (Process & Automation Tools)</b>, which included:  
    - <b>PA-Base/Script</b> — main driver language (C++-like)  
@@ -23,7 +23,7 @@ Now I’m transitioning to Data Engineering and ML systems out of strong interes
 
 ---
 
-### Skills & Transition Path
+## Skills & Transition Path
 
 - ![focus](https://img.shields.io/badge/FOCUS%20ON-Data%20Engineering%20%7C%20Data%20Science%20%7C%20Applied%20ML-blue?style=flat-square)  
   Transitioning to working with **production-grade data engineering, data science, and applied ML projects**.  
@@ -36,7 +36,7 @@ Now I’m transitioning to Data Engineering and ML systems out of strong interes
 
 ---
 
-### Featured Projects (learning + build)
+## Featured Projects (learning + build)
 
 <table>
 <tr>
@@ -93,7 +93,7 @@ Now I’m transitioning to Data Engineering and ML systems out of strong interes
 
 ---
 
-### ![stats](https://img.shields.io/badge/GitHub-Stats-blue?style=flat-square)
+## ![stats](https://img.shields.io/badge/GitHub-Stats-blue?style=flat-square)
 
 <div align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=hsjoi0214&show_icons=true&rank_icon=github&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" />
@@ -104,7 +104,7 @@ Now I’m transitioning to Data Engineering and ML systems out of strong interes
 
 ---
 
-### 🧭 Current Work & Learning
+##  Current Work & Learning
 
 - ![working](https://img.shields.io/badge/WORKING%20ON-Knowledge%20App%20%7C%20Blogging%20Website-blue?style=flat-square)  
   1) **Knowledge app** integrates multiple APIs + Supabase(PostgreSQL) + hosting environment + recommendation system (repo to be made public on completion).  
@@ -115,7 +115,7 @@ Now I’m transitioning to Data Engineering and ML systems out of strong interes
   Agentic Knowledge graphs construction
 ---
 
-### 🚀 Journey & Achievements
+##  Journey & Achievements
 Moving closer to downstream data roles through projects, certifications, and writing:  
 
 - ![certifications](https://img.shields.io/badge/CERTIFICATIONS-orange?style=flat-square)  
@@ -134,7 +134,7 @@ Moving closer to downstream data roles through projects, certifications, and wri
 
 ---
 
-### 🤝 Collaboration & Contact  
+##  Collaboration & Contact  
 
 - ![collaborate](https://img.shields.io/badge/LOOKING%20TO-Collaborate%20On-blue?style=flat-square)  
   Open to and excited about collaborating on end-to-end data engineering, data science, and applied ML projects — from small builds to production-grade pipelines with full MLOps.  
