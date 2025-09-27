@@ -108,7 +108,8 @@ Now I’m transitioning to Data Engineering and ML systems out of strong interes
 
 - ![working](https://img.shields.io/badge/WORKING%20ON-Knowledge%20App%20%7C%20Blogging%20Website-blue?style=flat-square)  
   1) **Knowledge app** integrating multiple APIs + Supabase + recommendation system (repo to be made public when complete).  
-  2) **Personal blogging website** built from scratch — roadmap includes adding a text-to-speech model (currently private).  
+  2) **Personal blogging website** built from scratch — roadmap includes adding a text-to-speech model (currently private).
+  3) **Medium Article** a long form medium article that explains the workings of Recurrent Neural Networks (RNNs) and Convolutional Neural Networks (CNNs).
 
 - ![learning](https://img.shields.io/badge/LEARNING-Knowledge%20Graphs-green?style=flat-square)  
   Agentic Knowledge graphs construction
