@@ -41,22 +41,6 @@ Now I’m transitioning to Data Engineering and ML systems out of strong interes
 <table>
 <tr>
 <td align="center" width="50%">
-  <a href="https://github.com/hsjoi0214/brazil-market-expansion">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hsjoi0214&repo=brazil-market-expansion&theme=transparent&hide_border=true&v=2" />
-  </a>
-  <br/>
-  <sub><i>SQL + Tableau dashboards on an artificial Brazil market dataset; structured insights & schema design.</i></sub>
-</td>
-<td align="center" width="50%">
-  <a href="https://github.com/hsjoi0214/eniac-discount-analysis">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hsjoi0214&repo=eniac-discount-analysis&theme=transparent&hide_border=true&v=2" />
-  </a>
-  <br/>
-  <sub><i>Discount strategy & product segmentation analysis on €7.8M revenue; seasonal demand & margin impact.</i></sub>
-</td>
-</tr>
-<tr>
-<td align="center" width="50%">
   <a href="https://github.com/hsjoi0214/RAGbot">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=hsjoi0214&repo=RAGbot&theme=transparent&hide_border=true&v=2" />
   </a>
@@ -69,6 +53,22 @@ Now I’m transitioning to Data Engineering and ML systems out of strong interes
   </a>
   <br/>
   <sub><i>Feature-engineered XGBoost pipeline; Streamlit app; Kaggle RMSE 0.12033.</i></sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+  <a href="https://github.com/hsjoi0214/brazil-market-expansion">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hsjoi0214&repo=brazil-market-expansion&theme=transparent&hide_border=true&v=2" />
+  </a>
+  <br/>
+  <sub><i>SQL + Tableau dashboards on an artificial Brazil market dataset; structured insights & schema design.</i></sub>
+</td>
+<td align="center" width="50%">
+  <a href="https://github.com/hsjoi0214/eniac-discount-analysis">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hsjoi0214&repo=eniac-discount-analysis&theme=transparent&hide_border=true&v=2" />
+  </a>
+  <br/>
+  <sub><i>Discount strategy & product segmentation analysis on €7.8M revenue; seasonal demand & margin impact.</i></sub>
 </td>
 </tr>
 <tr>
