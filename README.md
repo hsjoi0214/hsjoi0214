@@ -29,7 +29,7 @@ Now I’m transitioning to Data Engineering and ML systems out of strong interes
   Transitioning to working with **production-grade data engineering, data science, and applied ML projects**.  
 
 - ![learning](https://img.shields.io/badge/TOOLS-Learning%20%26%20Building%20with-green?style=flat-square)  
-  Git, Python, SQL, JavaScript, Docker, Kubernetes, Streamlit, Heroku, GitHub Actions, Postgres/Supabase, FastAPI, Airflow, DAGs, Great Expectations.  
+  Git, Python, SQL, Cypher, JavaScript, Docker, Kubernetes, Streamlit, Heroku, GitHub Actions, Postgres/Supabase, FastAPI, Airflow, DAGs, Great Expectations.  
 
 - ![professional](https://img.shields.io/badge/TOOLS-Professional%20Experience-orange?style=flat-square)  
   PA-Tools Suite (PA-Base/Script, PA-Design, PA-Graph), proprietary C++-like language, LabVIEW, TIA Portal, Jira, automation control frameworks.  
