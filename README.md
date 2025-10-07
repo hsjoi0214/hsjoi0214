@@ -127,7 +127,8 @@ Moving closer to downstream data roles through projects, certifications, and wri
   - Short courses: GCP Essential Training; Statistics (3-part series)  
 
 - ![articles](https://img.shields.io/badge/ARTICLES-purple?style=flat-square)  
-  - <a href="https://medium.com/@prakash1402/the-complete-guide-to-rag-part-i-operational-mechanics-9365ba12b241">The Complete Guide to RAG: Part I — Operational Mechanics</a>  
+  - <a href="https://medium.com/@prakash1402/the-complete-guide-to-rag-part-i-operational-mechanics-9365ba12b241">The Complete Guide to RAG: Part I — Operational Mechanics</a>
+  - <a href="https://medium.com/@prakash1402/the-complete-guide-to-rag-part-i-operational-mechanics-9365ba12b241">The Complete Guide to RAG: Part II — Application Mechanics</a>
   - <a href="https://medium.com/@prakash1402/understanding-deep-neural-networks-foundations-and-intuition-1a-4d3cbe5b4b73">Understanding Deep Neural Networks — Foundations & Intuition (1a)</a>  
   - <a href="https://medium.com/@prakash1402/demystifying-word-embeddings-from-neural-nets-to-contrastive-learning-c444d7b30993">Demystifying Word Embeddings: Neural Nets → Contrastive Learning</a>  
 
