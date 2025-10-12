@@ -13,12 +13,24 @@ Experienced **Embedded Software Engineer** with a strong foundation in **automat
 Currently transitioning into **Data Engineering and Applied Machine Learning**, leveraging a deep understanding of system design, data flows, and distributed computation.
 
 ### Technical Alignment with Data Engineering
-- **Programming Foundations:** Developed complex automation logic using *PA-Base/Script*, an OOP environment similar to Python/C++ — reinforcing strong object-oriented design and scripting expertise.
-- **Workflow Orchestration:** Designed control flows using *PA-Graph*, a DAG-like (Directed Acyclic Graph) system for process automation — directly comparable to modern orchestration tools such as **Apache Airflow**.
-- **Interface Design & Visualization:** Built user-facing test dashboards in *PA-Design*, conceptually aligned with **frontend tools** and **data visualization frameworks** like Streamlit and Plotly.
-- **Data Management & Storage:** Worked extensively with distributed databases to manage large-scale test data, aligning closely with **cloud-based data storage systems** (AWS S3, RDS, DynamoDB).
-- **Automation & CI Concepts:** Integrated and automated hardware/software testing pipelines — a natural extension toward **ETL process automation**, **DevOps**, and **CI/CD workflows**.
-- **Analytical Mindset:** Applied data analysis to testing results, supporting predictive insights — bridging into **data science methodologies** and **machine learning workflows**.
+
+- ![badge](https://img.shields.io/badge/-Programming%20Foundations-lightgrey?style=flat-square)  
+  Developed complex automation logic using *PA-Base/Script*, an OOP environment similar to Python/C++ — reinforcing strong object-oriented design and scripting expertise.
+
+- ![badge](https://img.shields.io/badge/-Workflow%20Orchestration-lightgrey?style=flat-square)  
+  Designed control flows using *PA-Graph*, a DAG-like (Directed Acyclic Graph) system for process automation — directly comparable to modern orchestration tools such as **Apache Airflow**.
+
+- ![badge](https://img.shields.io/badge/-Interface%20Design%20%26%20Visualization-lightgrey?style=flat-square)  
+  Built user-facing test dashboards in *PA-Design*, conceptually aligned with **frontend tools** and **data visualization frameworks** like Streamlit and Plotly.
+
+- ![badge](https://img.shields.io/badge/-Data%20Management%20%26%20Storage-lightgrey?style=flat-square)  
+  Worked extensively with distributed databases to manage large-scale test data, aligning closely with **cloud-based data storage systems** (AWS S3, RDS, DynamoDB).
+
+- ![badge](https://img.shields.io/badge/-Automation%20%26%20CI%20Concepts-lightgrey?style=flat-square)  
+  Integrated and automated hardware/software testing pipelines — a natural extension toward **ETL process automation**, **DevOps**, and **CI/CD workflows**.
+
+- ![badge](https://img.shields.io/badge/-Analytical%20Mindset-lightgrey?style=flat-square)  
+  Applied data analysis to testing results, supporting predictive insights — bridging into **data science methodologies** and **machine learning workflows**.
 
 ### Broader Experience
 - Developed **full-stack applications** and **ML-based projects**, demonstrating proficiency across both **software engineering** and **data infrastructure** layers.  
