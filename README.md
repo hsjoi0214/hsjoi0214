@@ -7,13 +7,24 @@ Now I’m transitioning to Data Engineering and ML systems out of strong interes
 
 ---
 
-## Background
-1. **Embedded software engineer** in the field of e-mobility & battery testing.  
-2. Programmed with a proprietary environment called <b>PA-Tools Suite (Process & Automation Tools)</b>, which included:  
-   - <b>PA-Base/Script</b> — main driver language (C++-like)  
-   - <b>PA-Design</b> — for UI and driver design  
-   - <b>PA-Graph</b> — a DAG-like state machine language for control flows  
-3. Experienced in developing automation solutions, data analysis and writing device drivers within industrial testing environments.  
+## Professional Background
+
+Experienced **Embedded Software Engineer** with a strong foundation in **automation, data-driven systems, and scalable software architectures**.  
+Currently transitioning into **Data Engineering and Applied Machine Learning**, leveraging a deep understanding of system design, data flows, and distributed computation.
+
+### Technical Alignment with Data Engineering
+- **Programming Foundations:** Developed complex automation logic using *PA-Base/Script*, an OOP environment similar to Python/C++ — reinforcing strong object-oriented design and scripting expertise.
+- **Workflow Orchestration:** Designed control flows using *PA-Graph*, a DAG-like (Directed Acyclic Graph) system for process automation — directly comparable to modern orchestration tools such as **Apache Airflow**.
+- **Interface Design & Visualization:** Built user-facing test dashboards in *PA-Design*, conceptually aligned with **frontend tools** and **data visualization frameworks** like Streamlit and Plotly.
+- **Data Management & Storage:** Worked extensively with distributed databases to manage large-scale test data, aligning closely with **cloud-based data storage systems** (AWS S3, RDS, DynamoDB).
+- **Automation & CI Concepts:** Integrated and automated hardware/software testing pipelines — a natural extension toward **ETL process automation**, **DevOps**, and **CI/CD workflows**.
+- **Analytical Mindset:** Applied data analysis to testing results, supporting predictive insights — bridging into **data science methodologies** and **machine learning workflows**.
+
+### Broader Experience
+- Developed **full-stack applications** and **ML-based projects**, demonstrating proficiency across both **software engineering** and **data infrastructure** layers.  
+- Familiar with **AWS Cloud**, **Python**, **SQL**, **Databricks**, **Terraform**, **Docker**, and **CI/CD pipelines**.
+
+> My experience in embedded systems taught me to build reliable, data-centric automation in distributed environments — skills that map directly to modern data engineering and cloud computing.
 
 <p align="center">
   <a href="mailto:prakash.joshi1402@icloud.com"><img alt="Email" src="https://img.shields.io/badge/EMAIL-prakash.joshi1402@icloud.com-informational?style=flat"></a>
