@@ -32,6 +32,11 @@ Currently transitioning into **Data Engineering and Applied Machine Learning**, 
 - ![badge](https://img.shields.io/badge/-Analytical%20Mindset-a371f7?style=flat-square)  
   Applied data analysis to testing results, supporting predictive insights — bridging into **data science methodologies** and **machine learning workflows**.
 
+- ![badge](https://img.shields.io/badge/-Observability%20%26%20Monitoring-a371f7?style=flat-square)  
+  Implemented internal monitoring tools for embedded test systems, providing **real-time visibility** into process health, data quality, and system performance — conceptually aligned with **modern   observability platforms** like **AWS CloudWatch** and **Databricks Workflows Monitoring**.  
+
+  Developed metrics and alerting mechanisms to detect anomalies in test data pipelines, similar in spirit to **data observability frameworks** used in production-grade data engineering environments.  
+
 ### Broader Experience
 - Developed **full-stack applications** and **ML-based projects**, demonstrating proficiency across both **software engineering** and **data infrastructure** layers.  
 - Familiar with **AWS Cloud**, **Python**, **SQL**, **Databricks**, **Terraform**, **Docker**, and **CI/CD pipelines**.
