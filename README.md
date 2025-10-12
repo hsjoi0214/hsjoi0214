@@ -33,9 +33,7 @@ Currently transitioning into **Data Engineering and Applied Machine Learning**, 
   Applied data analysis to testing results, supporting predictive insights — bridging into **data science methodologies** and **machine learning workflows**.
 
 - ![badge](https://img.shields.io/badge/-Observability%20%26%20Monitoring-a371f7?style=flat-square)  
-  Implemented internal monitoring tools for embedded test systems, providing **real-time visibility** into process health, data quality, and system performance — conceptually aligned with **modern   observability platforms** like **AWS CloudWatch** and **Databricks Workflows Monitoring**.  
-
-  Developed metrics and alerting mechanisms to detect anomalies in test data pipelines, similar in spirit to **data observability frameworks** used in production-grade data engineering environments.  
+  Implemented internal monitoring tools for embedded test systems, enabling **real-time visibility** into process health, data quality, and system performance — closely aligned with **modern observability platforms** such as **AWS CloudWatch** and **Databricks Workflows Monitoring**. Designed metrics and alerting mechanisms to detect data anomalies, mirroring the functionality of **data observability frameworks** used in large-scale data engineering environments.
 
 ### Broader Experience
 - Developed **full-stack applications** and **ML-based projects**, demonstrating proficiency across both **software engineering** and **data infrastructure** layers.  
