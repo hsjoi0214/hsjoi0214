@@ -14,22 +14,22 @@ Currently transitioning into **Data Engineering and Applied Machine Learning**, 
 
 ### Technical Alignment with Data Engineering
 
-- ![badge](https://img.shields.io/badge/-Programming%20Foundations-violet?style=flat-square)  
+- ![badge](https://img.shields.io/badge/-Programming%20Foundations-a371f7?style=flat-square)  
   Developed complex automation logic using *PA-Base/Script*, an OOP environment similar to Python/C++ — reinforcing strong object-oriented design and scripting expertise.
 
-- ![badge](https://img.shields.io/badge/-Workflow%20Orchestration-violet?style=flat-square)  
+- ![badge](https://img.shields.io/badge/-Workflow%20Orchestration-a371f7?style=flat-square)  
   Designed control flows using *PA-Graph*, a DAG-like (Directed Acyclic Graph) system for process automation — directly comparable to modern orchestration tools such as **Apache Airflow**.
 
-- ![badge](https://img.shields.io/badge/-Interface%20Design%20%26%20Visualization-violet?style=flat-square)  
+- ![badge](https://img.shields.io/badge/-Interface%20Design%20%26%20Visualization-a371f7?style=flat-square)  
   Built user-facing test dashboards in *PA-Design*, conceptually aligned with **frontend tools** and **data visualization frameworks** like Streamlit and Plotly.
 
-- ![badge](https://img.shields.io/badge/-Data%20Management%20%26%20Storage-violet?style=flat-square)  
+- ![badge](https://img.shields.io/badge/-Data%20Management%20%26%20Storage-a371f7?style=flat-square)  
   Worked extensively with distributed databases to manage large-scale test data, aligning closely with **cloud-based data storage systems** (AWS S3, RDS, DynamoDB).
 
-- ![badge](https://img.shields.io/badge/-Automation%20%26%20CI%20Concepts-violet?style=flat-square)  
+- ![badge](https://img.shields.io/badge/-Automation%20%26%20CI%20Concepts-a371f7?style=flat-square)  
   Integrated and automated hardware/software testing pipelines — a natural extension toward **ETL process automation**, **DevOps**, and **CI/CD workflows**.
 
-- ![badge](https://img.shields.io/badge/-Analytical%20Mindset-violet?style=flat-square)  
+- ![badge](https://img.shields.io/badge/-Analytical%20Mindset-a371f7?style=flat-square)  
   Applied data analysis to testing results, supporting predictive insights — bridging into **data science methodologies** and **machine learning workflows**.
 
 ### Broader Experience
