@@ -54,33 +54,17 @@ Currently transitioning into **Data Engineering and Applied Machine Learning**, 
 - ![skills](https://img.shields.io/badge/KEY%20SKILLS-AWS%20Cloud%20%7C%20Lambda%20%7C%20API%20Gateway%20%7C%20S3%20%7C%20IaC%20%7C%20Databricks%20%7C%20Jenkins-green?style=flat-square)  
   **AWS Cloud Solutions:** Lambda, API Gateway, S3, IaC (Terraform, CloudFormation), CloudWatch, Cost Explorer, RDS, DynamoDB, IAM, VPC Security, Databricks, Jenkins (CI/CD), Airflow (DAGs). 
 
-![technical](https://img.shields.io/badge/TECHNICAL%20SKILLS-Python%20%7C%20SQL%20%7C%20PySpark%20%7C%20DevOps%20%7C%20Architecture-orange?style=flat-square)
+- ![technical](https://img.shields.io/badge/TECHNICAL%20SKILLS-Python%20%7C%20SQL%20%7C%20PySpark%20%7C%20DevOps%20%7C%20Architecture-orange?style=flat-square)  
+  **AWS (Cloud):** Lambda, S3, API Gateway, RDS, DynamoDB, IAM, Service Catalog, Terraform (IaC), CloudWatch, Cost Explorer, EKS, SQS, Glue, Athena, VPC, and others.  
 
----
+  **Programming & Tools:** Python, SQL, Unix Shell Scripting, PySpark, ETL.  
 
-### **AWS (Cloud)**
-Lambda, S3, API Gateway, RDS, DynamoDB, IAM, Service Catalog, Terraform (IaC), CloudWatch, Cost Explorer, EKS, SQS, Glue, Athena, VPC, and others.
+  **DevOps & Automation:** CI/CD, Git, Jenkins, Airflow, Terraform (IaC), Kafka (Basic), Containerisation (EKS, Docker).  
 
----
+  **Design & Architecture:** System Design, Client-Server Architecture, Microservices, Serverless Architecture, Event-Driven Architecture, Data Modeling, Database Design.  
 
-### **Programming & Tools**
-Python, SQL, Unix Shell Scripting, PySpark, ETL.
-
----
-
-### **DevOps & Automation**
-CI/CD, Git, Jenkins, Airflow, Terraform (IaC), Kafka (Basic), Containerisation (EKS, Docker).
-
----
-
-### **Design & Architecture**
-System Design, Client-Server Architecture, Microservices, Serverless Architecture, Event-Driven Architecture, Data Modeling, Database Design.
-
----
-
-### **Observability & Monitoring**
-OpenTelemetry (Otel), Jaeger, AWS CloudWatch, Prometheus, Grafana.  
-Built a custom **DIY Monitoring Panel** integrating OpenTelemetry traces and metrics, providing real-time visualization for a RetriveL augmented genration project.
+  **Observability & Monitoring:** OpenTelemetry (Otel), Jaeger, AWS CloudWatch, Prometheus, Grafana.  
+  Built a custom **DIY Monitoring Panel** integrating OpenTelemetry traces and metrics, providing real-time visualization for a Retrieval-Augmented Generation (RAG) project.  
   
 ---
 
