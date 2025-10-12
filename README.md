@@ -1,7 +1,7 @@
 <h1 align="center">PJ · Embedded Software → Aspiring Data/AI Engineer</h1>
 
 <p align="center">
-Ex–e-mobility & battery-testing software engineer for embedded systems.  
+E-mobility software engineer for embedded systems.  
 Now I’m transitioning to Data Engineering and ML systems out of strong interest and curiosity.
 </p>
 
