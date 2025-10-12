@@ -28,11 +28,14 @@ Now I’m transitioning to Data Engineering and ML systems out of strong interes
 - ![focus](https://img.shields.io/badge/FOCUS%20ON-Data%20Engineering%20%7C%20Data%20Science%20%7C%20Applied%20ML-blue?style=flat-square)  
   Transitioning to working with **production-grade data engineering, data science, and applied ML projects**.  
 
-- ![learning](https://img.shields.io/badge/TOOLS-Learning%20%26%20Building%20with-green?style=flat-square)  
-  Git, Python, SQL, Cypher, JavaScript, Docker, Kubernetes, Streamlit, Heroku, GitHub Actions, Postgres/Supabase, FastAPI, Airflow, DAGs, Great Expectations.  
+- ![skills](https://img.shields.io/badge/KEY%20SKILLS-AWS%20Cloud%20%7C%20Lambda%20%7C%20API%20Gateway%20%7C%20S3%20%7C%20IaC%20%7C%20Databricks%20%7C%20Jenkins-green?style=flat-square)  
+  **AWS Cloud Solutions:** Lambda, API Gateway, S3, IaC (CloudFormation & Terraform), CloudWatch, Cost Explorer, RDS, DynamoDB, IAM, VPC Security, Databricks, Jenkins (CI/CD).  
 
-- ![professional](https://img.shields.io/badge/TOOLS-Professional%20Experience-orange?style=flat-square)  
-  PA-Tools Suite (PA-Base/Script, PA-Design, PA-Graph), proprietary C++-like language, LabVIEW, TIA Portal, Jira, automation control frameworks.  
+- ![technical](https://img.shields.io/badge/TECHNICAL%20SKILLS-Python%20%7C%20SQL%20%7C%20PySpark%20%7C%20DevOps%20%7C%20Architecture-orange?style=flat-square)  
+  **AWS (Cloud):** Lambda, S3, API Gateway, RDS, DynamoDB, IAM, Lakeformation, Service Catalog, CloudFormation (IaC), CloudWatch, Cost Explorer, EKS, SNS, SQS, Glue, Iceberg, Athena, VPC, and others.  
+  **Programming & Tools:** Python, SQL, Unix Shell Scripting, PySpark, ETL, Databricks, Snowflake, Data Warehousing.  
+  **DevOps & Automation:** CI/CD, Git, Jenkins, Terraform (IaC), Kafka (Basic), Containerisation (EKS, Docker).  
+  **Design & Architecture:** System Design, Client-Server Architecture, Microservices, Serverless Architecture, Event-Driven Architecture, Data Modeling, Database Design.  
 
 ---
 
