@@ -125,18 +125,6 @@ Currently transitioning into **Data Engineering and Applied Machine Learning**, 
 </table>
 
 
-
----
-
-## ![stats](https://img.shields.io/badge/GitHub-Stats-blue?style=flat-square)
-
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=hsjoi0214&show_icons=true&rank_icon=github&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" />
-  <img height="160" src="https://streak-stats.demolab.com?user=hsjoi0214&theme=tokyonight&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hsjoi0214&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
-</div>
-
-
 ---
 
 ##  Current Work & Learning
