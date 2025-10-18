@@ -66,8 +66,7 @@ Currently transitioning into **Data Engineering and Applied Machine Learning**, 
 
   **Design & Architecture:** System Design, Client-Server Architecture, Microservices, Serverless Architecture, Event-Driven Architecture, Data Modeling, Database Design.  
 
-  **Observability & Monitoring:** OpenTelemetry (Otel), Jaeger, Databricks, Prometheus, Grafana.  
-  Built a custom **DIY Monitoring Panel** integrating OpenTelemetry traces and metrics, providing real-time visualization for a Retrieval-Augmented Generation (RAG) project.  
+  **Observability & Monitoring:** OpenTelemetry (Otel), Jaeger, Databricks, Prometheus, Grafana, custom DIY Monitoring & Observability Panel.  
   
 ---
 
