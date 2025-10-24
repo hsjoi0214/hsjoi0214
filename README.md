@@ -14,7 +14,7 @@ Currently transitioning into **Data Engineering and Applied Machine Learning**, 
 
 ### Technical Alignment with Data Engineering
 
-- ![badge](https://img.shields.io/badge/-Programming%20Foundations-5bbfad?style=flat-square&labelColor=5bbfad&color=5bbfad&logoColor=2e2e2e)  
+- ![badge](https://img.shields.io/badge/-Programming%20Foundations-5bbfad?style=flat-square&labelColor=5bbfad&color=5bbfad&logoColor=000000)
   Developed complex automation logic using *PA-Base/Script*, an OOP environment similar to Python/C++ — reinforcing strong object-oriented design and scripting expertise.
 
 - ![badge](https://img.shields.io/badge/-Workflow%20Orchestration-a371f7?style=flat-square)  
