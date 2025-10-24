@@ -36,7 +36,7 @@ Currently transitioning into **Data Engineering and Applied Machine Learning**, 
   Implemented internal monitoring tools for embedded test systems, enabling **real-time visibility** into process health, data quality, and system performance — closely aligned with **modern observability platforms** such as **AWS CloudWatch** and **Databricks Workflows Monitoring**. Designed metrics and alerting mechanisms to detect data anomalies, mirroring the functionality of **data observability frameworks** used in large-scale data engineering environments.
 
 ### Broader Experience
-- Developed **full-stack applications** and **ML-based projects**, demonstrating proficiency across both **software engineering** and **data infrastructure** layers.  
+- Developed **full-stack applications** and **Data science / ML-based projects**, demonstrating proficiency across both **software engineering** and **data infrastructure** layers.  
 - Familiar with **AWS Cloud**, **Python**, **SQL**, **Databricks**, **Terraform**, **Docker**, and **CI/CD pipelines**.
 
 > My experience in embedded systems taught me to build reliable, data-centric automation in distributed environments — skills that map directly to modern data engineering and cloud computing.
