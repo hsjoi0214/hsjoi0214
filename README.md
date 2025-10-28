@@ -15,29 +15,29 @@ Currently transitioning into **Data Engineering and Applied Machine Learning**, 
 ### Technical Alignment with Data Engineering
 
 - ![badge](https://img.shields.io/badge/-Programming%20%26%20Automation-3a8f8c?style=flat-square)  
-  Engineered complex automation and control systems using *PA-Base/Script*, an object-oriented scripting environment conceptually similar to Python/C++ :- building strong foundations in modular software design, data manipulation, and process automation.
+  Engineered complex automation and control systems using *PA-Base/Script*, an object-oriented scripting environment conceptually similar to Python/C++ which helped me build strong foundations in modular software design, data manipulation, and process automation.
 
 - ![badge](https://img.shields.io/badge/-Data%20Pipeline%20Development-3a8f8c?style=flat-square)  
-  Designed and deployed automated data acquisition and transformation pipelines for large-scale battery testing :- analogous to modern ETL (Extract, Transform, Load) workflows in data engineering.  
-  Implemented process control flows via DAG-based orchestration (*PA-Graph*), mirroring dependency management in tools like **Apache Airflow** or **Prefect**.
+  1. Designed and deployed automated data acquisition and transformation pipelines for large-scale battery testing which are analogous to modern ETL (Extract, Transform, Load) workflows in data engineering.  
+  2. Implemented process control flows via DAG-based orchestration (*PA-Graph*), mirroring dependency management in tools like **Apache Airflow**.
 
 - ![badge](https://img.shields.io/badge/-Data%20Modeling%20%26%20Storage-3a8f8c?style=flat-square)  
-  Developed structured and distributed databases for managing cell, pack, and end-of-line test data :- conceptually aligned with **PostgreSQL**, **AWS RDS**, and **DynamoDB** architectures.  
-  Implemented cloud-based data synchronization for global test environments, paralleling **AWS S3** and **Azure Data Lake** solutions.
+  1. Developed structured and distributed databases for managing cell, pack, and end-of-line test data which conceptually aligned with **PostgreSQL**, **AWS RDS**, and **DynamoDB** architectures.  
+  2. Implemented cloud-based data synchronization for global test environments, paralleling **AWS S3** and **Azure Data Lake** solutions.
 
 - ![badge](https://img.shields.io/badge/-Data%20Analysis%20%26%20Visualization-3a8f8c?style=flat-square)  
-  Analyzed large-scale battery performance data to detect trends and anomalies using statistical and algorithmic reasoning :- laying groundwork for machine learning workflows.  
-  Built user-facing dashboards (*PA-Design*) for visualization and reporting, comparable to frameworks like **Streamlit**, **Dash**, or **Plotly**.
+  1. Analyzed large-scale battery performance data to detect trends and anomalies using statistical and algorithmic reasoning and laying groundwork for machine learning workflows.  
+  2. Built user-facing dashboards (*PA-Design*) for visualization and reporting, comparable to frameworks like **Streamlit** or **Plotly**.
 
 - ![badge](https://img.shields.io/badge/-Monitoring%20%26%20Observability-3a8f8c?style=flat-square)  
-  Built real-time monitoring solutions for distributed test systems, providing insight into data quality, system health, and performance :— conceptually aligned with **Prometheus**, **Grafana**, and **AWS CloudWatch**.  
-  Defined alerting and metric-tracking logic for anomaly detection and proactive maintenance.
+  1. Built real-time monitoring solutions for distributed test systems, providing insight into data quality, system health, and performance which conceptually aligned with **Prometheus**, **Grafana**, and **AWS CloudWatch**.  
+  2. Defined alerting and metric-tracking logic for anomaly detection and proactive maintenance.
 
 - ![badge](https://img.shields.io/badge/-CI%2FCD%20%26%20DevOps%20Integration-3a8f8c?style=flat-square)  
-  Automated deployment and testing pipelines for hardware-software integration :— extending continuous integration and delivery (CI/CD) concepts into data and MLOps workflows.
+  Automated deployment and testing pipelines for hardware-software integration which extends continuous integration and delivery (CI/CD) concepts into data and MLOps workflows.
 
 - ![badge](https://img.shields.io/badge/-Collaboration%20%26%20Knowledge%20Transfer-3a8f8c?style=flat-square)  
-  Led global customer training sessions across **Europe**, **the USA**, and **China**; authored internal documentation and user guides to standardize testing and data workflows.
+  Led global customer training sessions across **Europe**, **the USA**, and **China**, authored internal documentation and user guides to standardize testing and data workflows.
 
 ### Broader Experience
 - Developed **full-stack applications** and **Data science / ML-based projects**, demonstrating proficiency across both **software engineering** and **data infrastructure** layers.  
