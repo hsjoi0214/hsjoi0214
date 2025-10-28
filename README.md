@@ -14,26 +14,30 @@ Currently transitioning into **Data Engineering and Applied Machine Learning**, 
 
 ### Technical Alignment with Data Engineering
 
-- ![badge](https://img.shields.io/badge/-Programming%20Foundations-3a8f8c?style=flat-square)
-  Developed complex automation logic using *PA-Base/Script*, an OOP environment similar to Python/C++ — reinforcing strong object-oriented design and scripting expertise.
+- ![badge](https://img.shields.io/badge/-Programming%20%26%20Automation-3a8f8c?style=flat-square)  
+  Engineered complex automation and control systems using *PA-Base/Script*, an object-oriented scripting environment conceptually similar to Python/C++ — building strong foundations in modular software design, data manipulation, and process automation.
 
-- ![badge](https://img.shields.io/badge/-Workflow%20Orchestration-3a8f8c?style=flat-square)    
-  Designed control flows using *PA-Graph*, a DAG-like (Directed Acyclic Graph) system for process automation — directly comparable to modern orchestration tools such as **Apache Airflow**.
+- ![badge](https://img.shields.io/badge/-Data%20Pipeline%20Development-3a8f8c?style=flat-square)  
+  Designed and deployed automated data acquisition and transformation pipelines for large-scale battery testing — analogous to modern ETL (Extract, Transform, Load) workflows in data engineering.  
+  Implemented process control flows via DAG-based orchestration (*PA-Graph*), mirroring dependency management in tools like **Apache Airflow** or **Prefect**.
 
-- ![badge](https://img.shields.io/badge/-Interface%20Design%20%26%20Visualization-3a8f8c?style=flat-square)  
-  Built user-facing test dashboards in *PA-Design*, conceptually aligned with **frontend tools** and **data visualization frameworks** like Streamlit and Plotly.
+- ![badge](https://img.shields.io/badge/-Data%20Modeling%20%26%20Storage-3a8f8c?style=flat-square)  
+  Developed structured and distributed databases for managing cell, pack, and end-of-line test data — conceptually aligned with **PostgreSQL**, **AWS RDS**, and **DynamoDB** architectures.  
+  Implemented cloud-based data synchronization for global test environments, paralleling **AWS S3** and **Azure Data Lake** solutions.
 
-- ![badge](https://img.shields.io/badge/-Data%20Management%20%26%20Storage-3a8f8c?style=flat-square)  
-  Worked extensively with distributed databases to manage large-scale test data, aligning closely with **cloud-based data storage systems** (AWS S3, RDS, DynamoDB).
+- ![badge](https://img.shields.io/badge/-Data%20Analysis%20%26%20Visualization-3a8f8c?style=flat-square)  
+  Analyzed large-scale battery performance data to detect trends and anomalies using statistical and algorithmic reasoning — laying groundwork for machine learning workflows.  
+  Built user-facing dashboards (*PA-Design*) for visualization and reporting, comparable to frameworks like **Streamlit**, **Dash**, or **Plotly**.
 
-- ![badge](https://img.shields.io/badge/-Automation%20%26%20CI%20Concepts-3a8f8c?style=flat-square)  
-  Integrated and automated hardware/software testing pipelines — a natural extension toward **ETL process automation**, **DevOps**, and **CI/CD workflows**.
+- ![badge](https://img.shields.io/badge/-Monitoring%20%26%20Observability-3a8f8c?style=flat-square)  
+  Built real-time monitoring solutions for distributed test systems, providing insight into data quality, system health, and performance — conceptually aligned with **Prometheus**, **Grafana**, and **AWS CloudWatch**.  
+  Defined alerting and metric-tracking logic for anomaly detection and proactive maintenance.
 
-- ![badge](https://img.shields.io/badge/-Analytical%20Mindset-3a8f8c?style=flat-square)  
-  Applied data analysis to testing results, supporting predictive insights — bridging into **data science methodologies** and **machine learning workflows**.
+- ![badge](https://img.shields.io/badge/-CI%2FCD%20%26%20DevOps%20Integration-3a8f8c?style=flat-square)  
+  Automated deployment and testing pipelines for hardware-software integration — extending continuous integration and delivery (CI/CD) concepts into data and MLOps workflows.
 
-- ![badge](https://img.shields.io/badge/-Observability%20%26%20Monitoring-3a8f8c?style=flat-square)  
-  Implemented internal monitoring tools for embedded test systems, enabling **real-time visibility** into process health, data quality, and system performance — closely aligned with **modern observability platforms** such as **AWS CloudWatch** and **Databricks Workflows Monitoring**. Designed metrics and alerting mechanisms to detect data anomalies, mirroring the functionality of **data observability frameworks** used in large-scale data engineering environments.
+- ![badge](https://img.shields.io/badge/-Collaboration%20%26%20Knowledge%20Transfer-3a8f8c?style=flat-square)  
+  Led global customer training sessions across **Europe**, **the USA**, and **China**; authored internal documentation and user guides to standardize testing and data workflows.
 
 ### Broader Experience
 - Developed **full-stack applications** and **Data science / ML-based projects**, demonstrating proficiency across both **software engineering** and **data infrastructure** layers.  
