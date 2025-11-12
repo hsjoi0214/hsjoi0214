@@ -47,7 +47,7 @@ Currently transitioning into **Data Engineering and Applied Machine Learning**, 
 
 <p align="center">
   <a href="mailto:prakash.joshi1402@icloud.com"><img alt="Email" src="https://img.shields.io/badge/EMAIL-prakash.joshi1402@icloud.com-informational?style=flat"></a>
-  <a href="https://www.thefourthprojection.com"><img alt="Website" src="https://img.shields.io/badge/WEBSITE-Visit-informational?style=flat"></a>
+  <a href="https://www.fourthprojection.com"><img alt="Website" src="https://img.shields.io/badge/WEBSITE-Visit-informational?style=flat"></a>
   <a href="https://medium.com/@prakash1402"><img alt="Medium" src="https://img.shields.io/badge/WRITING-Medium-informational?style=flat"></a>
 </p>
 
