@@ -146,7 +146,7 @@ Moving closer to downstream data roles through projects, certifications, and wri
 
 - ![certifications](https://img.shields.io/badge/CERTIFICATIONS-orange?style=flat-square)  
   - Data Engineering — DeepLearning.AI (4-course specialization)  
-  - Data Science — WBS Academy  
+  - Data Science — WBS Academy, Berlin  
   - Deep Learning — DeepLearning.AI (5-course specialization)  
   - RAG — DeepLearning.AI  
   - Docker & Kubernetes  
@@ -173,5 +173,5 @@ Moving closer to downstream data roles through projects, certifications, and wri
 
 - ![contact](https://img.shields.io/badge/REACH%20ME-prakash.joshi1402%40icloud.com-green?style=flat-square)  
 
-- ![funfact](https://img.shields.io/badge/FUN%20FACT-Enjoy%20reading%20%26%20and%20learning-orange?style=flat-square)  
+- ![funfact](https://img.shields.io/badge/FUN%20FACT-Enjoy%20reading%20%26%20%20learning-orange?style=flat-square)  
   
