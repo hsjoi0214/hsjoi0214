@@ -173,5 +173,6 @@ Moving closer to downstream data roles through projects, certifications, and wri
 
 - ![contact](https://img.shields.io/badge/REACH%20ME-prakash.joshi1402%40icloud.com-green?style=flat-square)  
 
-- ![funfact](https://img.shields.io/badge/FUN%20FACT-Enjoy%20reading%20%26%20%20learning-orange?style=flat-square)  
+- ![funfact](https://img.shields.io/badge/FUN%20FACT-Enjoy%20reading%20%26%20learning-orange?style=flat-square)
+
   
