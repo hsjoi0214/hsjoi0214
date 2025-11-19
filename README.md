@@ -1,4 +1,4 @@
-<h1 align="center">PJ · Embedded Software → Aspiring Data/AI Engineer</h1>
+<h1 align="center">PJ · Embedded Software → Data/AI Engineer</h1>
 
 <p align="center">
 E-mobility software engineer for embedded systems.  
