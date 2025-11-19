@@ -138,7 +138,8 @@ Currently transitioning into **Data Engineering and Applied Machine Learning**, 
   3) **Medium Article** that explains the detailed workflow of the Knowledge-app. Additionally another medium article explaining the workings of Recurrent Neural Networks (RNNs) and Convolutional Neural Networks (CNNs) in depth.
 
 - ![learning](https://img.shields.io/badge/LEARNING-Knowledge%20Graphs-green?style=flat-square)  
-  Agentic Knowledge graphs construction
+  1) Agentic Knowledge graphs construction
+  2) Building AI Agents and Agentic Workflows
 ---
 
 ##  Journey & Achievements
