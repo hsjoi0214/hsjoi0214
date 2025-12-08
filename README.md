@@ -80,14 +80,14 @@ Currently transitioning into **Data Engineering and Applied Machine Learning**, 
 <tr>
 <td align="center" width="50%">
   <a href="https://github.com/hsjoi0214/RAGbot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hsjoi0214&repo=RAGbot&theme=transparent&hide_border=true&v=2" />
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=hsjoi0214&repo=RAGbot&theme=transparent&hide_border=true&v=2" />
   </a>
   <br/>
   <sub><i>RAG chatbot for <i>Crime and Punishment</i> — IR + LLM via Streamlit.</i></sub>
 </td>
 <td align="center" width="50%">
   <a href="https://github.com/hsjoi0214/housing-price-prediction">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hsjoi0214&repo=housing-price-prediction&theme=transparent&hide_border=true&v=2" />
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=hsjoi0214&repo=housing-price-prediction&theme=transparent&hide_border=true&v=2" />
   </a>
   <br/>
   <sub><i>Feature-engineered XGBoost pipeline; Streamlit app; Kaggle RMSE 0.12033.</i></sub>
@@ -96,14 +96,14 @@ Currently transitioning into **Data Engineering and Applied Machine Learning**, 
 <tr>
 <td align="center" width="50%">
   <a href="https://github.com/hsjoi0214/brazil-market-expansion">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hsjoi0214&repo=brazil-market-expansion&theme=transparent&hide_border=true&v=2" />
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=hsjoi0214&repo=brazil-market-expansion&theme=transparent&hide_border=true&v=2" />
   </a>
   <br/>
   <sub><i>SQL + Tableau dashboards on an artificial Brazil market dataset; structured insights & schema design.</i></sub>
 </td>
 <td align="center" width="50%">
   <a href="https://github.com/hsjoi0214/eniac-discount-analysis">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hsjoi0214&repo=eniac-discount-analysis&theme=transparent&hide_border=true&v=2" />
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=hsjoi0214&repo=eniac-discount-analysis&theme=transparent&hide_border=true&v=2" />
   </a>
   <br/>
   <sub><i>Discount strategy & product segmentation analysis on €7.8M revenue; seasonal demand & margin impact.</i></sub>
@@ -112,14 +112,14 @@ Currently transitioning into **Data Engineering and Applied Machine Learning**, 
 <tr>
 <td align="center" width="50%">
   <a href="https://github.com/hsjoi0214/weather-app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hsjoi0214&repo=weather-app&theme=transparent&hide_border=true&v=2" />
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=hsjoi0214&repo=weather-app&theme=transparent&hide_border=true&v=2" />
   </a>
   <br/>
   <sub><i>Minimalist JS + OpenWeather: essentials + outfit suggestions.</i></sub>
 </td>
 <td align="center" width="50%">
   <a href="https://github.com/hsjoi0214/movie-night">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hsjoi0214&repo=movie-night&theme=transparent&hide_border=true&v=2" />
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=hsjoi0214&repo=movie-night&theme=transparent&hide_border=true&v=2" />
   </a>
   <br/>
   <sub><i>CLI scraper curating top 50 films of 2023; filters + GCS/Heroku.</i></sub>
@@ -133,8 +133,8 @@ Currently transitioning into **Data Engineering and Applied Machine Learning**, 
 ##  Current Work & Learning
 
 - ![working](https://img.shields.io/badge/WORKING%20ON-Knowledge%20App%20%7C%20Blogging%20Website%20%7C%20Medium%20Article%20%20-blue?style=flat-square)  
-  1) **Knowledge app** integrates multiple APIs + Supabase(PostgreSQL) + hosting environment + recommendation system (repo to be made public on completion).  
-  2) **Personal blogging website** built from scratch — roadmap includes adding a text-to-speech model (currently private).
+  1) **Knowledge app** integrates multiple APIs + Supabase(PostgreSQL) + hosting environment + recommendation system (repo is private, permission-based access).  
+  2) **Personal blogging website** built from scratch — roadmap includes adding a text-to-speech model (private repo).
   3) **Medium Article** that explains the detailed workflow of the Knowledge-app. Additionally another medium article explaining the workings of Recurrent Neural Networks (RNNs) and Convolutional Neural Networks (CNNs) in depth.
 
 - ![learning](https://img.shields.io/badge/LEARNING-Knowledge%20Graphs-green?style=flat-square)  
