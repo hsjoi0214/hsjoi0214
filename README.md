@@ -82,17 +82,11 @@ Currently transitioning into **Data Engineering and Applied Machine Learning**, 
       <a href="https://github.com/hsjoi0214/RAGbot"><strong>RAGbot</strong></a><br/>
       <sub><i>RAG chatbot for <i>Crime and Punishment</i> — IR + LLM via Streamlit.</i></sub>
       <br/><br/>
-      <img src="https://img.shields.io/github/stars/hsjoi0214/RAGbot?style=flat" />
-      <img src="https://img.shields.io/github/languages/top/hsjoi0214/RAGbot?style=flat" />
-      <img src="https://img.shields.io/github/last-commit/hsjoi0214/RAGbot?style=flat" />
     </td>
     <td align="left" width="50%">
       <a href="https://github.com/hsjoi0214/housing-price-prediction"><strong>Housing Price Prediction</strong></a><br/>
       <sub><i>Feature-engineered XGBoost pipeline; Streamlit app; Kaggle RMSE 0.12033.</i></sub>
       <br/><br/>
-      <img src="https://img.shields.io/github/stars/hsjoi0214/housing-price-prediction?style=flat" />
-      <img src="https://img.shields.io/github/languages/top/hsjoi0214/housing-price-prediction?style=flat" />
-      <img src="https://img.shields.io/github/last-commit/hsjoi0214/housing-price-prediction?style=flat" />
     </td>
   </tr>
 
@@ -101,17 +95,11 @@ Currently transitioning into **Data Engineering and Applied Machine Learning**, 
       <a href="https://github.com/hsjoi0214/brazil-market-expansion"><strong>Brazil Market Expansion</strong></a><br/>
       <sub><i>SQL + Tableau dashboards on an artificial Brazil market dataset; structured insights &amp; schema design.</i></sub>
       <br/><br/>
-      <img src="https://img.shields.io/github/stars/hsjoi0214/brazil-market-expansion?style=flat" />
-      <img src="https://img.shields.io/github/languages/top/hsjoi0214/brazil-market-expansion?style=flat" />
-      <img src="https://img.shields.io/github/last-commit/hsjoi0214/brazil-market-expansion?style=flat" />
     </td>
     <td align="left" width="50%">
       <a href="https://github.com/hsjoi0214/eniac-discount-analysis"><strong>Eniac Discount Analysis</strong></a><br/>
       <sub><i>Discount strategy &amp; product segmentation analysis on €7.8M revenue; seasonal demand &amp; margin impact.</i></sub>
       <br/><br/>
-      <img src="https://img.shields.io/github/stars/hsjoi0214/eniac-discount-analysis?style=flat" />
-      <img src="https://img.shields.io/github/languages/top/hsjoi0214/eniac-discount-analysis?style=flat" />
-      <img src="https://img.shields.io/github/last-commit/hsjoi0214/eniac-discount-analysis?style=flat" />
     </td>
   </tr>
 
@@ -120,17 +108,11 @@ Currently transitioning into **Data Engineering and Applied Machine Learning**, 
       <a href="https://github.com/hsjoi0214/weather-app"><strong>Weather App</strong></a><br/>
       <sub><i>Minimalist JS + OpenWeather: essentials + outfit suggestions.</i></sub>
       <br/><br/>
-      <img src="https://img.shields.io/github/stars/hsjoi0214/weather-app?style=flat" />
-      <img src="https://img.shields.io/github/languages/top/hsjoi0214/weather-app?style=flat" />
-      <img src="https://img.shields.io/github/last-commit/hsjoi0214/weather-app?style=flat" />
     </td>
     <td align="left" width="50%">
       <a href="https://github.com/hsjoi0214/movie-night"><strong>Movie Night</strong></a><br/>
       <sub><i>CLI scraper curating top 50 films of 2023; filters + GCS/Heroku.</i></sub>
       <br/><br/>
-      <img src="https://img.shields.io/github/stars/hsjoi0214/movie-night?style=flat" />
-      <img src="https://img.shields.io/github/languages/top/hsjoi0214/movie-night?style=flat" />
-      <img src="https://img.shields.io/github/last-commit/hsjoi0214/movie-night?style=flat" />
     </td>
   </tr>
 </table>
