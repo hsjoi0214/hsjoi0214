@@ -125,7 +125,7 @@ Currently transitioning into **Data Engineering and Applied Machine Learning**, 
 - ![working](https://img.shields.io/badge/WORKING%20ON-Knowledge%20App%20%7C%20Blogging%20Website%20%7C%20Medium%20Article%20%20-blue?style=flat-square)  
   1) **Knowledge app** integrates multiple APIs + Supabase(PostgreSQL) + hosting environment + recommendation system (repo is private, permission-based access). ![done](https://img.shields.io/badge/STATUS-Done-brightgreen?style=flat-square)
   2) **Medium Article** that explains the detailed workflow of the Knowledge-app. ![done](https://img.shields.io/badge/STATUS-Done-brightgreen?style=flat-square)
-  3) **Personal blogging website** built from scratch — roadmap includes adding a text-to-speech model (private repo). ![done](https://img.shields.io/badge/STATUS-80%-Done-brightgreen?style=flat-square)
+  3) **Personal blogging website** built from scratch — roadmap includes adding a text-to-speech model (private repo).
   4) **Medium Article** explaining the workings of Recurrent Neural Networks (RNNs) and Convolutional Neural Networks (CNNs) in depth.
 
 - ![learning](https://img.shields.io/badge/LEARNING-Knowledge%20Graphs-green?style=flat-square)  
