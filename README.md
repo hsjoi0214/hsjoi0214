@@ -146,7 +146,8 @@ Moving closer to downstream data roles through projects, certifications, and wri
   - Docker & Kubernetes  
   - Short courses: GCP Essential Training; Statistics (3-part series)  
 
-- ![articles](https://img.shields.io/badge/ARTICLES-purple?style=flat-square)  
+- ![articles](https://img.shields.io/badge/ARTICLES-purple?style=flat-square)
+  - <a href="https://medium.com/@prakash1402/the-knowledge-drip-b832e40206c0">The Knowledge Drip</a>    
   - <a href="https://medium.com/@prakash1402/the-complete-guide-to-rag-part-i-operational-mechanics-9365ba12b241">The Complete Guide to RAG: Part I — Operational Mechanics</a>
   - <a href="https://medium.com/@prakash1402/the-complete-guide-to-rag-part-ii-setup-design-and-application-cb0b415106e3">The Complete Guide to RAG: Part II — Application Mechanics</a>
   - <a href="https://medium.com/@prakash1402/understanding-deep-neural-networks-foundations-and-intuition-1a-4d3cbe5b4b73">Understanding Deep Neural Networks — Foundations & Intuition (1a)</a>
