@@ -139,7 +139,7 @@ Currently transitioning into **Data Engineering and Applied Machine Learning**, 
 Moving closer to downstream data roles through projects, certifications, and writing:  
 
 - ![certifications](https://img.shields.io/badge/CERTIFICATIONS-orange?style=flat-square)  
-  - Data Engineering — DeepLearning.AI (4-course specialization)  
+  - Data Engineering — DeepLearning.AI (4-course specialization using AWS)  
   - Data Science — WBS Academy, Berlin  
   - Deep Learning — DeepLearning.AI (5-course specialization)  
   - RAG — DeepLearning.AI  
